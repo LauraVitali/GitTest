@@ -1,0 +1,20 @@
+:root {
+    --main-color: #56b99e;
+    --cta-color: #f4e580;
+    --link-color: #f6c13e;
+    --link-hover-highlight-color: #bcdfd2;
+    --color-5: #b3dde3;
+    --color-6: #efc3c2;
+
+    --primary-font: "brandon-grotesque", sans-serif;
+    --secondary-font: "cormorant-garamond", serif;
+    --special-font: "turbinado-pro", sans-serif;
+    --main-text-color: #22211e;
+    --secondary-text-color: #b5b5b5;
+
+    --white-space: 1rem;
+}
+
+body {
+    margin: 0;
+}
